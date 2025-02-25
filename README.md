@@ -78,9 +78,21 @@
  The steps involved are:
  > Create a new branch for a feature or bug fix.
  > Make changes to the code and commit them to the feature branch.
+ > Open a pull request and select the head and base branch. Add a relevant title and description to the pull request.
+ > Merge the pull request once it has been reviewed and approved. 
 
 ## Discuss the concept of "forking" a repository on GitHub. How does forking differ from cloning, and what are some scenarios where forking would be particularly useful?
+   Forking a repository on GitHub mainly involves creating a copy of the original repository, allowing you to make changes 
+  and necessary modifications without affecting the original code. Forking differs from cloning in that a fork is a 
+  permanent   copy of the repository, while a clone is a temporary copy that can be deleted at any time.
+  Focking would be usefull in scenarios such as:
+  > When one wants to customize an entier project
+  >  In cases where collaboration with others is needed, forking allows for creation of a shared copy of the project
+  >  During testing and implementation with different versions of a project.
+  >  Forking can also be used when one wants to create a personal branch of the project.
 
 ## Examine the importance of issues and project boards on GitHub. How can they be used to track bugs, manage tasks, and improve project organization? Provide examples of how these tools can enhance collaborative efforts.
+  Issues and project boards are essential tools on GitHub that enable developers to manage tasks, track bugs, and improve 
+  project organization.
 
 ## Reflect on common challenges and best practices associated with using GitHub for version control. What are some common pitfalls new users might encounter, and what strategies can be employed to overcome them and ensure smooth collaboration?
